@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec 15 15:21:47 2013
-
-@author: chris
+@author: Christopher Peters
+@email: cpeter9@gmail.com
 """
 
 import requests
